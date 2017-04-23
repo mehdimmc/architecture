@@ -32,7 +32,7 @@
         <gatling.version>2.2.0</gatling.version>
         <hazelcast-hibernate.version>1.1.1</hazelcast-hibernate.version>
         <haze>112</haze>
-		<merge.rebase.version>1</merge.rebase.version>
+		<merge.rebase.version>2</merge.rebase.version>
 		<hazelcast.version>3.7</hazelcast.version>
         <hibernate.version>5.2.4.Final</hibernate.version>
         <hikaricp.version>2.4.6</hikaricp.version>
