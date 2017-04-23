@@ -35,7 +35,7 @@
 		<hazelcast.version>3.7</hazelcast.version>
         <hibernate.version>5.2.4.Final</hibernate.version>
         <hikaricp.version>2.4.6</hikaricp.version>
-        <correction.bug.version>1.0.0</correction.bug.version>
+        <correction.bug.version>2.0.0</correction.bug.version>
 		<!-- Spring social 2 -->
         <httpclient.version>4.5.1</httpclient.version>
         <jacoco-maven-plugin.version>0.7.7.201606060606</jacoco-maven-plugin.version>
